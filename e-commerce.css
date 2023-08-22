@@ -116,7 +116,7 @@ ul{
 }
 /* Home page */
 #hero{
-    background-image: url('/images/handsome-african-american-man-pointing-copy-space.jpg');
+    background-image: url('./images/handsome-african-american-man-pointing-copy-space.jpg');
     background-repeat: no-repeat;
     background-position: top 25% right 0%;
     background-size: cover;
@@ -262,7 +262,7 @@ ul{
     text-align: center;
     justify-content: center;
     align-items: center;
-    background-image: url('/images/banner-background2.jpg');
+    background-image: url('./images/banner-background2.jpg');
     background-position: center;
     background-size: cover;
     height: 40vh;
@@ -294,7 +294,7 @@ ul{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url('/images/small-banner-img1.avif');
+    background-image: url('./images/small-banner-img1.avif');
     background-position: center;
     min-width: 580px;
     background-size: cover;
@@ -302,7 +302,7 @@ ul{
     padding: 30px;
 }
 #small-banner .banner-box2{
-    background-image: url('/images/small-banner-img2.jpg');
+    background-image: url('./images/small-banner-img2.jpg');
 }
 #small-banner h4{
     color: white;
@@ -340,7 +340,7 @@ button.white{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url('/images/small-banner2-background.jpg');
+    background-image: url('./images/small-banner2-background.jpg');
     background-position: center;
     min-width: 30%;
     background-size: cover;
@@ -349,10 +349,10 @@ button.white{
     margin-bottom: 20px;
 }
 #small-banner2 .small-banner-box2{
-    background-image: url('/images/small-banner2-img.jpg');
+    background-image: url('./images/small-banner2-img.jpg');
 }
 #small-banner2 #small-banner-box3{
-    background-image: url('/images/small-banner3-img.jpg');
+    background-image: url('./images/small-banner3-img.jpg');
 }
 #small-banner2  .banner-box h2{
     color: white;
@@ -376,7 +376,7 @@ button.white{
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
-    background-image: url('/images/news-letter-background.avif');
+    background-image: url('./images/news-letter-background.avif');
     background-repeat: no-repeat;
     background-position: 20% 30%;
     background-size: cover;
@@ -471,7 +471,7 @@ footer .copyright{
 
         /* SHOP STYLING */
 #page-header{
-    background-image: url('/images/page-header-background.webp');
+    background-image: url('./images/page-header-background.webp');
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -559,7 +559,7 @@ flex-basis: 14px;
 
         /* BLOG PAGE STYLING */
 #page-header.blog-header{
-     background-image: url('/images/blog-background-img.jpg');
+     background-image: url('./images/blog-background-img.jpg');
      width: 100%;
      height: 40vh;
     background-size: cover;
@@ -628,7 +628,7 @@ flex-basis: 14px;
 
     /* ABOUT STYLING */
 #page-header.about-header{
-    background-image: url('/images/about-background-img.jpg');
+    background-image: url('./images/about-background-img.jpg');
     position: top 20%;
 }
 #about-head{
