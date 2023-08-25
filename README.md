@@ -27,3 +27,5 @@
 
 </ol>
 <h2>E-Commerce Wbsite Preview</h2>
+![desktop view](https://github.com/ifeDdev/ECommerce-Website/assets/141560364/5a000435-7576-44ea-b8e0-3ac1d6d9910a)
+
