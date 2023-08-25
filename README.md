@@ -1,6 +1,10 @@
 <h1>E-commerce Website</h1>
 <br>
-<h2>This E-commerce Website helps with buying and selling of any good that you like or wnt</h2>
+<h2>Project Description:</h2>
+
+<br>
+
+<p>The primary goal of this e-commerce site is to sell goods online. This project deals with developing an e-commerce website for Online Product Sale. It provides the user with a catalog of different product available for purchase in the store.</p>
 <br>
 <h1>LIVE LINK</h1>
 <ul>
@@ -11,7 +15,7 @@
 <ul>
   <li>HTML5: Structuring the app's content.</li>
   <li>CSS3: Styling the app for an attractive and intuitive interface.</li>
-  <li>JavaScript (ES6+): Implementing the real-time counting functionality.</li>
+  <li>JavaScript (ES6+): Creating the responsiveness of the website.</li>
 </ul>
 <br>
 <h1>How to Use</h1>
@@ -20,5 +24,6 @@
 <li>Clone this repository to your local machine using git clone https://github.com/ifeDdev/ECommerce-Website.git</li>
 <li>Navigate to the project directory: cd ECommerce-Website</li>
 <li>Open index.html in your web browser.</li>
-<li>Start counting passengers by clicking the "Add" and "Save" buttons</li>
+
 </ol>
+<h2>E-Commerce Wbsite Preview</h2>
